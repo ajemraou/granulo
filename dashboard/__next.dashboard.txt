@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/granulo/_next/static/chunks/ff1a16fafef87110.js","/granulo/_next/static/chunks/1a476e30dee46234.js"],"default"]
 3:I[37457,["/granulo/_next/static/chunks/ff1a16fafef87110.js","/granulo/_next/static/chunks/1a476e30dee46234.js"],"default"]
-0:{"buildId":"6obawq37MmNrk-zjNDhec","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"yAWtrwL2xfnK3NmU79RCV","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
